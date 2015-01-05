@@ -2,7 +2,7 @@
     "name": "thezenmonkey/newrecaptcha",
     "description": "Spam Protector using Google's New 'I am not a robot' reCAPTCHA",
     "type": "silverstripe-module",
-    "keywords": ["silverstripe", "Spam", "Protection", "Google", 'reCaptcha', 'I am not a robot'],
+    "keywords": ["silverstripe", "Spam", "Protection", "Google", "reCaptcha", "I am not a robot"],
     "license": "GPL-2.0+",
     "authors": [{
         "name": "Richard Rudy",
