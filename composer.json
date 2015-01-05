@@ -1,9 +1,9 @@
 {
-    "name": "thezenmonkey/textcaptcha",
-    "description": "SpamProtector Module that uses TextCaptcha for Spam Protection",
+    "name": "thezenmonkey/newrecaptcha",
+    "description": "Spam Protector using Google's New 'I am not a robot' reCAPTCHA",
     "type": "silverstripe-module",
-    "keywords": ["silverstripe", "Spam", "Protection", "TextCaptcha"],
-    "license": "BSD-3-Clause",
+    "keywords": ["silverstripe", "Spam", "Protection", "Google", 'reCaptcha', 'I am not a robot'],
+    "license": "GPL-2.0+",
     "authors": [{
         "name": "Richard Rudy",
         "email": "designplusawesome@gmail.com"
