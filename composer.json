@@ -3,12 +3,14 @@
     "description": "Spam Protector using Google's New 'I am not a robot' reCAPTCHA",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "Spam", "Protection", "Google", "reCaptcha", "I am not a robot"],
+    "version": 0.1,
     "license": "GPL-2.0+",
     "authors": [{
         "name": "Richard Rudy",
-        "email": "designplusawesome@gmail.com"
+        "email": "iwant@designplusawesome.com"
     }],
     "require": {
+        "silverstripe/cms": "~3.1",
         "silverstripe/spamprotection": "*"
     }
 }
